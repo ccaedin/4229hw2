@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "preLaunchTask": "make",
-            "program": "${workspaceFolder}/output",
+            "program": "${workspaceFolder}/hw2",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
